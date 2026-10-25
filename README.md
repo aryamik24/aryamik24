@@ -31,14 +31,7 @@ I’m passionate about technology, software development, and exploring how artif
 > tech_stack
 
 <div align="center">
-
-Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" alt="Programming languages"/>
-
-Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode&theme=dark" alt="Technology stack"/>
 </div>
 
 ⸻
@@ -57,16 +50,10 @@ Tools & Platforms
 
 ⸻
 
-## Contribution Activity
+> contribution_graph
 
 <div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=aryamik24&theme=github-compact&hide_border=true"
-  width="100%"
-  alt="Aryamik Singh's GitHub contribution activity"
-/>
-
+<img src="./activity-graph.svg" width="100%" alt="Aryamik Singh's GitHub contribution activity"/>
 </div>
 
 ⸻
@@ -89,12 +76,12 @@ Area	Focus
 
 <div align="center">
 <a href="https://github.com/aryamik24">
-  <img src="https://img.shields.io/badge/GitHub-Follow-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Follow%20on-GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=aryamik24&style=flat-square&color=161B22&label=PROFILE+VIEWS" alt="Profile views"/>
 
 “Great things are built one commit at a time.”
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=80&section=footer&color=0:1F3A5F,100:0D1117" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=80&section=footer&color=0:1F3A5F,100:0D1117" width="100%" alt="Footer banner"/>
 </div>
