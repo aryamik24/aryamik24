@@ -57,10 +57,16 @@ Tools & Platforms
 
 ⸻
 
-> contribution_graph
+## Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryamik24&bg_color=0D1117&color=C9D1D9&line=79C0FF&point=FFFFFF&area=true&area_color=161B22&hide_border=true" width="100%" alt="Contribution activity graph"/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=aryamik24&theme=github-compact&hide_border=true"
+  width="100%"
+  alt="Aryamik Singh's GitHub contribution activity"
+/>
+
 </div>
 
 ⸻
