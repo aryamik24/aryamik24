@@ -70,17 +70,6 @@ goal: Build useful projects and grow as a developer
 
 </div>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryamik24&bg_color=020617&color=93C5FD&line=3B82F6&point=60A5FA&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%" alt="GitHub Contribution Graph"/>
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
@@ -92,15 +81,7 @@ goal: Build useful projects and grow as a developer
 
 ---
 
-## 🏆 GitHub Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aryamik24&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies"/>
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
