@@ -1,28 +1,20 @@
-name: Generate Activity Graph
+name: Activity Graph
 
 on:
-schedule:
-- cron: “0 0 * * *”
-workflow_dispatch:
-push:
-branches:
-- main
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
-contents: write
+  contents: write
 
 jobs:
-generate:
-runs-on: ubuntu-latest
+  activity-graph:
+    runs-on: ubuntu-latest
 
-steps:
-  - name: Generate contribution graph
-    uses: yoshi389111/github-profile-3d-contrib@latest
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      USERNAME: ${{ github.repository_owner }}
-  - name: Upload generated graph
-    uses: actions/upload-artifact@v4
-    with:
-      name: activity-graph
-      path: profile-3d-contrib/
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate activity graph
+        uses: alexcerezo/activity-graph@v1
