@@ -20,7 +20,7 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
 ```yaml
 name: Aryamik Singh
@@ -34,15 +34,15 @@ mindset: Learn, Build, Improve
 goal: Build useful projects and grow as a developer
 ```
 
-- 💻 Passionate about technology and software development.
-- 🌱 Always learning and improving my programming skills.
-- 🛠️ Exploring tools, technologies, and creative project ideas.
-- 🎯 Focused on problem-solving and writing better code.
-- 🚀 Believe in learning by building real projects.
+- Passionate about technology and software development.
+- Always learning and improving my programming skills.
+- Exploring tools, technologies, and creative project ideas.
+- Focused on problem-solving and writing better code.
+- Believe in learning by building real projects.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -71,19 +71,19 @@ goal: Build useful projects and grow as a developer
 </div>
 
 
-## 🎯 Current Focus
+## Current Focus
 
-- 📚 Practicing programming and learning new concepts.
-- 🔨 Building personal projects and experimenting with ideas.
-- 🧠 Improving logical thinking and problem-solving skills.
-- 🌐 Exploring development tools and technologies.
-- 📈 Becoming a better developer one step at a time.
+- Practicing programming and learning new concepts.
+- Building personal projects and experimenting with ideas.
+- Improving logical thinking and problem-solving skills.
+- Exploring development tools and technologies.
+- Becoming a better developer one step at a time.
 
 ---
 
 
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
