@@ -91,7 +91,6 @@ goal: Build useful projects and grow as a developer
 <img src="https://img.shields.io/badge/GitHub-Follow%20Me-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
 </a>
 
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=aryamik24&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views"/>
 
