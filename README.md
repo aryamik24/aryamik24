@@ -95,8 +95,6 @@ goal: Build useful projects and grow as a developer
 
 <img src="https://komarev.com/ghpvc/?username=aryamik24&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:172554,100:020617&height=120&section=footer" width="100%" alt="Footer Banner"/>
 
 </div>
