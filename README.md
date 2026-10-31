@@ -97,10 +97,6 @@ goal: Build useful projects and grow as a developer
 
 <br/><br/>
 
-### 💙 Thanks for visiting my profile!
-
-**If you like my work, consider leaving a ⭐ on my repositories.**
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:172554,100:020617&height=120&section=footer" width="100%" alt="Footer Banner"/>
 
 </div>
